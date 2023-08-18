@@ -67,4 +67,5 @@ This endpoint uses SQLite. If you use this endpoint as POST and parse JSON into 
 ## To test this API you can use Postman (https://www.postman.com)
 
 Example Post request:
+
 ![Imgur](https://i.imgur.com/IH15S0h.png)
